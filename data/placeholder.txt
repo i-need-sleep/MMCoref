@@ -1,0 +1,2 @@
+The SIMMC2 dataset goes here.
+Unzip all images into ./all_images

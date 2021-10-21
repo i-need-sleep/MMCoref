@@ -1,4 +1,3 @@
-
 # Copy from https://github.com/huggingface/pytorch-transformers
 # Copy from https://github.com/airsplay/lxmert/
 

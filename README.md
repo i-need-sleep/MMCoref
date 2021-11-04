@@ -1,4 +1,4 @@
-Cleaned code and technical report [here](https://github.com/i-need-sleep/MMCoref_Cleaned)
+Cleaned code and technical report [here](https://github.com/i-need-sleep/MMCoref_Cleaned).
 
 # MMCoref
 
